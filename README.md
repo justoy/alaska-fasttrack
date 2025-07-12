@@ -61,13 +61,6 @@ python alaska_promo_finder.py --list
 - `alaska_promos.json`: Found promo codes with company information
 - `alaska_promo_finder.log`: Detailed log of search progress
 
-## Promo Code Patterns
-
-The script searches for patterns like:
-- `CS20XX` to `CS29XX` (Corporate Sales)
-- `AS20XX` to `AS29XX` (Alaska Sales)  
-- `MS20XX` to `MS29XX` (Microsoft Sales)
-
 ## Ethical Usage
 
 Please use this tool responsibly:
@@ -75,3 +68,24 @@ Please use this tool responsibly:
 - Don't overwhelm Alaska Airlines' servers
 - Only use found promo codes if you're eligible (work at the company)
 - This tool is for discovery purposes only
+
+## Found Promo Codes
+
+A running list of discovered Alaska Airlines fast track promo codes is maintained in [`alaska_promos.json`](./alaska_promos.json). This file contains all found codes, their associated companies/universities, status (active/expired), and direct URLs.
+
+### Sample of Active Promo Codes
+
+| Promo Code | Company/University         | Status  | Link                                               |
+|------------|---------------------------|---------|----------------------------------------------------|
+| AS2341     | University of California  | Active  | https://www.alaskaair.com/promo/AS2341             |
+| AS2342     | HP Inc.                   | Active  | https://www.alaskaair.com/promo/AS2342             |
+| AS2343     | Stripe                    | Active  | https://www.alaskaair.com/promo/AS2343             |
+| AS2344     | Stryker                   | Active  | https://www.alaskaair.com/promo/AS2344             |
+| AS2345     | Comcast                   | Active  | https://www.alaskaair.com/promo/AS2345             |
+| AS2366     | Microsoft                 | Active  | https://www.alaskaair.com/promo/AS2366             |
+| AS2365     | Google                    | Active  | https://www.alaskaair.com/promo/AS2365             |
+| AS2368     | Boeing                    | Active  | https://www.alaskaair.com/promo/AS2368             |
+| AS2372     | Amazon                    | Active  | https://www.alaskaair.com/promo/AS2372             |
+| CS2344     | University of Washington  | Active  | https://www.alaskaair.com/promo/CS2344             |
+
+For the full, up-to-date list, see [`alaska_promos.json`](./alaska_promos.json).
