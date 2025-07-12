@@ -1,0 +1,1166 @@
+{
+  "AS2330": {
+    "promo_code": "AS2330",
+    "url": "https://www.alaskaair.com/promo/AS2330",
+    "company_name": "Raytheon",
+    "found_date": "2025-07-12T12:00:14.246054",
+    "status": "expired",
+    "expiration_date": "7/1/2023"
+  },
+  "AS2341": {
+    "promo_code": "AS2341",
+    "url": "https://www.alaskaair.com/promo/AS2341",
+    "company_name": "University of California",
+    "found_date": "2025-07-12T12:00:29.113038",
+    "status": "active"
+  },
+  "AS2342": {
+    "promo_code": "AS2342",
+    "url": "https://www.alaskaair.com/promo/AS2342",
+    "company_name": "HP Inc.",
+    "found_date": "2025-07-12T12:00:30.563710",
+    "status": "active"
+  },
+  "AS2343": {
+    "promo_code": "AS2343",
+    "url": "https://www.alaskaair.com/promo/AS2343",
+    "company_name": "Stripe",
+    "found_date": "2025-07-12T12:00:31.926929",
+    "status": "active"
+  },
+  "AS2344": {
+    "promo_code": "AS2344",
+    "url": "https://www.alaskaair.com/promo/AS2344",
+    "company_name": "Stryker",
+    "found_date": "2025-07-12T12:00:33.527164",
+    "status": "active"
+  },
+  "AS2345": {
+    "promo_code": "AS2345",
+    "url": "https://www.alaskaair.com/promo/AS2345",
+    "company_name": "Comcast",
+    "found_date": "2025-07-12T12:00:34.866623",
+    "status": "active"
+  },
+  "AS2346": {
+    "promo_code": "AS2346",
+    "url": "https://www.alaskaair.com/promo/AS2346",
+    "company_name": "Leidos",
+    "found_date": "2025-07-12T12:00:36.359970",
+    "status": "active"
+  },
+  "AS2347": {
+    "promo_code": "AS2347",
+    "url": "https://www.alaskaair.com/promo/AS2347",
+    "company_name": "Slalom",
+    "found_date": "2025-07-12T12:00:37.145523",
+    "status": "active"
+  },
+  "AS2348": {
+    "promo_code": "AS2348",
+    "url": "https://www.alaskaair.com/promo/AS2348",
+    "company_name": "F5",
+    "found_date": "2025-07-12T12:00:38.026906",
+    "status": "active"
+  },
+  "AS2349": {
+    "promo_code": "AS2349",
+    "url": "https://www.alaskaair.com/promo/AS2349",
+    "company_name": "REI",
+    "found_date": "2025-07-12T12:00:38.774820",
+    "status": "active"
+  },
+  "AS2350": {
+    "promo_code": "AS2350",
+    "url": "https://www.alaskaair.com/promo/AS2350",
+    "company_name": "MultiCare",
+    "found_date": "2025-07-12T12:00:40.112086",
+    "status": "active"
+  },
+  "AS2351": {
+    "promo_code": "AS2351",
+    "url": "https://www.alaskaair.com/promo/AS2351",
+    "company_name": "Micron Technology Inc",
+    "found_date": "2025-07-12T12:00:41.369320",
+    "status": "active"
+  },
+  "AS2354": {
+    "promo_code": "AS2354",
+    "url": "https://www.alaskaair.com/promo/AS2354",
+    "company_name": "Albertsons",
+    "found_date": "2025-07-12T12:00:45.098463",
+    "status": "active"
+  },
+  "AS2355": {
+    "promo_code": "AS2355",
+    "url": "https://www.alaskaair.com/promo/AS2355",
+    "company_name": "Winco",
+    "found_date": "2025-07-12T12:00:46.003044",
+    "status": "active"
+  },
+  "AS2356": {
+    "promo_code": "AS2356",
+    "url": "https://www.alaskaair.com/promo/AS2356",
+    "company_name": "Gilead Sciences",
+    "found_date": "2025-07-12T12:00:46.840536",
+    "status": "active"
+  },
+  "AS2365": {
+    "promo_code": "AS2365",
+    "url": "https://www.alaskaair.com/promo/AS2365",
+    "company_name": "Google",
+    "found_date": "2025-07-12T12:00:59.489867",
+    "status": "active"
+  },
+  "AS2366": {
+    "promo_code": "AS2366",
+    "url": "https://www.alaskaair.com/promo/AS2366",
+    "company_name": "Microsoft",
+    "found_date": "2025-07-12T12:01:00.628748",
+    "status": "active"
+  },
+  "AS2367": {
+    "promo_code": "AS2367",
+    "url": "https://www.alaskaair.com/promo/AS2367",
+    "company_name": "Meta",
+    "found_date": "2025-07-12T12:01:01.528741",
+    "status": "active"
+  },
+  "AS2368": {
+    "promo_code": "AS2368",
+    "url": "https://www.alaskaair.com/promo/AS2368",
+    "company_name": "Boeing",
+    "found_date": "2025-07-12T12:01:02.928639",
+    "status": "active"
+  },
+  "AS2369": {
+    "promo_code": "AS2369",
+    "url": "https://www.alaskaair.com/promo/AS2369",
+    "company_name": "T-Mobile",
+    "found_date": "2025-07-12T12:01:03.835936",
+    "status": "active"
+  },
+  "AS2370": {
+    "promo_code": "AS2370",
+    "url": "https://www.alaskaair.com/promo/AS2370",
+    "company_name": "Genentech or Roche",
+    "found_date": "2025-07-12T12:01:05.173421",
+    "status": "active"
+  },
+  "AS2371": {
+    "promo_code": "AS2371",
+    "url": "https://www.alaskaair.com/promo/AS2371",
+    "company_name": "Salesforce",
+    "found_date": "2025-07-12T12:01:06.105778",
+    "status": "active"
+  },
+  "AS2372": {
+    "promo_code": "AS2372",
+    "url": "https://www.alaskaair.com/promo/AS2372",
+    "company_name": "Amazon",
+    "found_date": "2025-07-12T12:01:07.139927",
+    "status": "active"
+  },
+  "AS2373": {
+    "promo_code": "AS2373",
+    "url": "https://www.alaskaair.com/promo/AS2373",
+    "company_name": "Deloitte",
+    "found_date": "2025-07-12T12:01:08.878356",
+    "status": "active"
+  },
+  "AS2374": {
+    "promo_code": "AS2374",
+    "url": "https://www.alaskaair.com/promo/AS2374",
+    "company_name": "Accenture",
+    "found_date": "2025-07-12T12:01:10.269838",
+    "status": "active"
+  },
+  "AS2375": {
+    "promo_code": "AS2375",
+    "url": "https://www.alaskaair.com/promo/AS2375",
+    "company_name": "McKinsey",
+    "found_date": "2025-07-12T12:01:11.461537",
+    "status": "active"
+  },
+  "AS2376": {
+    "promo_code": "AS2376",
+    "url": "https://www.alaskaair.com/promo/AS2376",
+    "company_name": "KPMG",
+    "found_date": "2025-07-12T12:01:13.165399",
+    "status": "active"
+  },
+  "AS2377": {
+    "promo_code": "AS2377",
+    "url": "https://www.alaskaair.com/promo/AS2377",
+    "company_name": "PWC",
+    "found_date": "2025-07-12T12:01:14.480327",
+    "status": "active"
+  },
+  "AS2378": {
+    "promo_code": "AS2378",
+    "url": "https://www.alaskaair.com/promo/AS2378",
+    "company_name": "EY",
+    "found_date": "2025-07-12T12:01:15.422181",
+    "status": "active"
+  },
+  "AS2380": {
+    "promo_code": "AS2380",
+    "url": "https://www.alaskaair.com/promo/AS2380",
+    "company_name": "Nike",
+    "found_date": "2025-07-12T12:01:17.325725",
+    "status": "active"
+  },
+  "AS2381": {
+    "promo_code": "AS2381",
+    "url": "https://www.alaskaair.com/promo/AS2381",
+    "company_name": "Zillow",
+    "found_date": "2025-07-12T12:01:18.882821",
+    "status": "active"
+  },
+  "CS2301": {
+    "promo_code": "CS2301",
+    "url": "https://www.alaskaair.com/promo/CS2301",
+    "company_name": "Adobe",
+    "found_date": "2025-07-12T12:01:46.758522",
+    "status": "active"
+  },
+  "CS2302": {
+    "promo_code": "CS2302",
+    "url": "https://www.alaskaair.com/promo/CS2302",
+    "company_name": "Pfizer",
+    "found_date": "2025-07-12T12:01:48.184692",
+    "status": "active"
+  },
+  "CS2303": {
+    "promo_code": "CS2303",
+    "url": "https://www.alaskaair.com/promo/CS2303",
+    "company_name": "Uber",
+    "found_date": "2025-07-12T12:01:49.707941",
+    "status": "active"
+  },
+  "CS2304": {
+    "promo_code": "CS2304",
+    "url": "https://www.alaskaair.com/promo/CS2304",
+    "company_name": "Wells Fargo",
+    "found_date": "2025-07-12T12:01:50.506691",
+    "status": "active"
+  },
+  "CS2305": {
+    "promo_code": "CS2305",
+    "url": "https://www.alaskaair.com/promo/CS2305",
+    "company_name": "Thermo Fisher",
+    "found_date": "2025-07-12T12:01:51.328173",
+    "status": "active"
+  },
+  "CS2306": {
+    "promo_code": "CS2306",
+    "url": "https://www.alaskaair.com/promo/CS2306",
+    "company_name": "Lamb Weston",
+    "found_date": "2025-07-12T12:01:52.601497",
+    "status": "active"
+  },
+  "CS2307": {
+    "promo_code": "CS2307",
+    "url": "https://www.alaskaair.com/promo/CS2307",
+    "company_name": "Blue Origin",
+    "found_date": "2025-07-12T12:01:53.545090",
+    "status": "active"
+  },
+  "CS2308": {
+    "promo_code": "CS2308",
+    "url": "https://www.alaskaair.com/promo/CS2308",
+    "company_name": "PACCAR",
+    "found_date": "2025-07-12T12:01:55.061555",
+    "status": "active"
+  },
+  "CS2310": {
+    "promo_code": "CS2310",
+    "url": "https://www.alaskaair.com/promo/CS2310",
+    "company_name": "Moss Adams",
+    "found_date": "2025-07-12T12:01:58.335393",
+    "status": "active"
+  },
+  "CS2311": {
+    "promo_code": "CS2311",
+    "url": "https://www.alaskaair.com/promo/CS2311",
+    "company_name": "Nordstrom",
+    "found_date": "2025-07-12T12:01:59.909536",
+    "status": "active"
+  },
+  "CS2312": {
+    "promo_code": "CS2312",
+    "url": "https://www.alaskaair.com/promo/CS2312",
+    "company_name": "Perkins Coie",
+    "found_date": "2025-07-12T12:02:01.081536",
+    "status": "active"
+  },
+  "CS2313": {
+    "promo_code": "CS2313",
+    "url": "https://www.alaskaair.com/promo/CS2313",
+    "company_name": "Raytheon",
+    "found_date": "2025-07-12T12:02:02.133755",
+    "status": "active"
+  },
+  "CS2314": {
+    "promo_code": "CS2314",
+    "url": "https://www.alaskaair.com/promo/CS2314",
+    "company_name": "Seattle U",
+    "found_date": "2025-07-12T12:02:03.658094",
+    "status": "active"
+  },
+  "CS2315": {
+    "promo_code": "CS2315",
+    "url": "https://www.alaskaair.com/promo/CS2315",
+    "company_name": "FTV",
+    "found_date": "2025-07-12T12:02:05.256920",
+    "status": "active"
+  },
+  "CS2316": {
+    "promo_code": "CS2316",
+    "url": "https://www.alaskaair.com/promo/CS2316",
+    "company_name": "Gates Foundation",
+    "found_date": "2025-07-12T12:02:06.417556",
+    "status": "active"
+  },
+  "CS2317": {
+    "promo_code": "CS2317",
+    "url": "https://www.alaskaair.com/promo/CS2317",
+    "company_name": "Costco",
+    "found_date": "2025-07-12T12:02:07.665879",
+    "status": "active"
+  },
+  "CS2318": {
+    "promo_code": "CS2318",
+    "url": "https://www.alaskaair.com/promo/CS2318",
+    "company_name": "Starbucks",
+    "found_date": "2025-07-12T12:02:09.319700",
+    "status": "active"
+  },
+  "CS2319": {
+    "promo_code": "CS2319",
+    "url": "https://www.alaskaair.com/promo/CS2319",
+    "company_name": "Cisco",
+    "found_date": "2025-07-12T12:02:10.354268",
+    "status": "active"
+  },
+  "CS2320": {
+    "promo_code": "CS2320",
+    "url": "https://www.alaskaair.com/promo/CS2320",
+    "company_name": "Apple",
+    "found_date": "2025-07-12T12:02:12.156628",
+    "status": "active"
+  },
+  "CS2321": {
+    "promo_code": "CS2321",
+    "url": "https://www.alaskaair.com/promo/CS2321",
+    "company_name": "Intel",
+    "found_date": "2025-07-12T12:02:13.076977",
+    "status": "active"
+  },
+  "CS2322": {
+    "promo_code": "CS2322",
+    "url": "https://www.alaskaair.com/promo/CS2322",
+    "company_name": "Visa",
+    "found_date": "2025-07-12T12:02:14.777456",
+    "status": "active"
+  },
+  "CS2323": {
+    "promo_code": "CS2323",
+    "url": "https://www.alaskaair.com/promo/CS2323",
+    "company_name": "Lockheed Martin",
+    "found_date": "2025-07-12T12:02:16.125690",
+    "status": "active"
+  },
+  "CS2324": {
+    "promo_code": "CS2324",
+    "url": "https://www.alaskaair.com/promo/CS2324",
+    "company_name": "Toyota",
+    "found_date": "2025-07-12T12:02:17.740460",
+    "status": "active"
+  },
+  "CS2325": {
+    "promo_code": "CS2325",
+    "url": "https://www.alaskaair.com/promo/CS2325",
+    "company_name": "Qualcomm",
+    "found_date": "2025-07-12T12:02:19.317204",
+    "status": "active"
+  },
+  "CS2326": {
+    "promo_code": "CS2326",
+    "url": "https://www.alaskaair.com/promo/CS2326",
+    "company_name": "BNSF",
+    "found_date": "2025-07-12T12:02:20.469040",
+    "status": "active"
+  },
+  "CS2327": {
+    "promo_code": "CS2327",
+    "url": "https://www.alaskaair.com/promo/CS2327",
+    "company_name": "Northrop Grumman",
+    "found_date": "2025-07-12T12:02:22.108450",
+    "status": "active"
+  },
+  "CS2328": {
+    "promo_code": "CS2328",
+    "url": "https://www.alaskaair.com/promo/CS2328",
+    "company_name": "Tesla, SpaceX, or X",
+    "found_date": "2025-07-12T12:02:22.842444",
+    "status": "active"
+  },
+  "CS2329": {
+    "promo_code": "CS2329",
+    "url": "https://www.alaskaair.com/promo/CS2329",
+    "company_name": "Block Inc.",
+    "found_date": "2025-07-12T12:02:24.348872",
+    "status": "active"
+  },
+  "CS2330": {
+    "promo_code": "CS2330",
+    "url": "https://www.alaskaair.com/promo/CS2330",
+    "company_name": "Twitch",
+    "found_date": "2025-07-12T12:02:25.536328",
+    "status": "active"
+  },
+  "CS2332": {
+    "promo_code": "CS2332",
+    "url": "https://www.alaskaair.com/promo/CS2332",
+    "company_name": "Abbott Labs",
+    "found_date": "2025-07-12T12:02:27.909427",
+    "status": "active"
+  },
+  "CS2333": {
+    "promo_code": "CS2333",
+    "url": "https://www.alaskaair.com/promo/CS2333",
+    "company_name": "University of Oregon",
+    "found_date": "2025-07-12T12:02:29.372222",
+    "status": "active"
+  },
+  "CS2334": {
+    "promo_code": "CS2334",
+    "url": "https://www.alaskaair.com/promo/CS2334",
+    "company_name": "Cambia Health Solutions",
+    "found_date": "2025-07-12T12:02:30.171889",
+    "status": "active"
+  },
+  "CS2335": {
+    "promo_code": "CS2335",
+    "url": "https://www.alaskaair.com/promo/CS2335",
+    "company_name": "Providence",
+    "found_date": "2025-07-12T12:02:31.160543",
+    "status": "active"
+  },
+  "CS2337": {
+    "promo_code": "CS2337",
+    "url": "https://www.alaskaair.com/promo/CS2337",
+    "company_name": "Applied Materials",
+    "found_date": "2025-07-12T12:02:33.723291",
+    "status": "active"
+  },
+  "CS2338": {
+    "promo_code": "CS2338",
+    "url": "https://www.alaskaair.com/promo/CS2338",
+    "company_name": "Viacom",
+    "found_date": "2025-07-12T12:02:34.990999",
+    "status": "active"
+  },
+  "CS2339": {
+    "promo_code": "CS2339",
+    "url": "https://www.alaskaair.com/promo/CS2339",
+    "company_name": "Paramount",
+    "found_date": "2025-07-12T12:02:35.894287",
+    "status": "active"
+  },
+  "CS2341": {
+    "promo_code": "CS2341",
+    "url": "https://www.alaskaair.com/promo/CS2341",
+    "company_name": "Kiewit",
+    "found_date": "2025-07-12T12:02:38.606695",
+    "status": "active"
+  },
+  "CS2342": {
+    "promo_code": "CS2342",
+    "url": "https://www.alaskaair.com/promo/CS2342",
+    "company_name": "General Dynamics",
+    "found_date": "2025-07-12T12:02:40.138002",
+    "status": "active"
+  },
+  "CS2343": {
+    "promo_code": "CS2343",
+    "url": "https://www.alaskaair.com/promo/CS2343",
+    "company_name": "Snowflake",
+    "found_date": "2025-07-12T12:02:41.269762",
+    "status": "active"
+  },
+  "CS2344": {
+    "promo_code": "CS2344",
+    "url": "https://www.alaskaair.com/promo/CS2344",
+    "company_name": "University of Washington",
+    "found_date": "2025-07-12T12:02:42.562116",
+    "status": "active"
+  },
+  "CS2345": {
+    "promo_code": "CS2345",
+    "url": "https://www.alaskaair.com/promo/CS2345",
+    "company_name": "Expedia",
+    "found_date": "2025-07-12T12:02:44.097166",
+    "status": "active"
+  },
+  "CS2346": {
+    "promo_code": "CS2346",
+    "url": "https://www.alaskaair.com/promo/CS2346",
+    "company_name": "IBM",
+    "found_date": "2025-07-12T12:02:44.949511",
+    "status": "active"
+  },
+  "CS2347": {
+    "promo_code": "CS2347",
+    "url": "https://www.alaskaair.com/promo/CS2347",
+    "company_name": "Battelle Memorial Institute",
+    "found_date": "2025-07-12T12:02:46.061913",
+    "status": "active"
+  },
+  "CS2348": {
+    "promo_code": "CS2348",
+    "url": "https://www.alaskaair.com/promo/CS2348",
+    "company_name": "Umpqua Bank",
+    "found_date": "2025-07-12T12:02:47.469401",
+    "status": "active"
+  },
+  "CS2349": {
+    "promo_code": "CS2349",
+    "url": "https://www.alaskaair.com/promo/CS2349",
+    "company_name": "AT&T",
+    "found_date": "2025-07-12T12:02:48.963461",
+    "status": "active"
+  },
+  "CS2350": {
+    "promo_code": "CS2350",
+    "url": "https://www.alaskaair.com/promo/CS2350",
+    "company_name": "Boston Consulting Group",
+    "found_date": "2025-07-12T12:02:50.265409",
+    "status": "active"
+  },
+  "CS2351": {
+    "promo_code": "CS2351",
+    "url": "https://www.alaskaair.com/promo/CS2351",
+    "company_name": "Honeywell",
+    "found_date": "2025-07-12T12:02:51.754075",
+    "status": "active"
+  },
+  "CS2352": {
+    "promo_code": "CS2352",
+    "url": "https://www.alaskaair.com/promo/CS2352",
+    "company_name": "General Electric",
+    "found_date": "2025-07-12T12:02:52.466886",
+    "status": "active"
+  },
+  "CS2353": {
+    "promo_code": "CS2353",
+    "url": "https://www.alaskaair.com/promo/CS2353",
+    "company_name": "PayPal",
+    "found_date": "2025-07-12T12:02:53.821603",
+    "status": "active"
+  },
+  "CS2354": {
+    "promo_code": "CS2354",
+    "url": "https://www.alaskaair.com/promo/CS2354",
+    "company_name": "Broadcom",
+    "found_date": "2025-07-12T12:02:55.451760",
+    "status": "active"
+  },
+  "CS2355": {
+    "promo_code": "CS2355",
+    "url": "https://www.alaskaair.com/promo/CS2355",
+    "company_name": "ServiceNow",
+    "found_date": "2025-07-12T12:02:57.201100",
+    "status": "active"
+  },
+  "CS2356": {
+    "promo_code": "CS2356",
+    "url": "https://www.alaskaair.com/promo/CS2356",
+    "company_name": "Kaiser Permanente",
+    "found_date": "2025-07-12T12:02:58.065283",
+    "status": "active"
+  },
+  "CS2357": {
+    "promo_code": "CS2357",
+    "url": "https://www.alaskaair.com/promo/CS2357",
+    "company_name": "Workday",
+    "found_date": "2025-07-12T12:02:59.705024",
+    "status": "active"
+  },
+  "CS2358": {
+    "promo_code": "CS2358",
+    "url": "https://www.alaskaair.com/promo/CS2358",
+    "company_name": "Airbnb",
+    "found_date": "2025-07-12T12:03:01.352658",
+    "status": "active"
+  },
+  "CS2359": {
+    "promo_code": "CS2359",
+    "url": "https://www.alaskaair.com/promo/CS2359",
+    "company_name": "Warner Media LLC",
+    "found_date": "2025-07-12T12:03:03.005082",
+    "status": "active"
+  },
+  "AS2410": {
+    "promo_code": "AS2410",
+    "url": "https://www.alaskaair.com/promo/AS2410",
+    "company_name": "T-Mobile",
+    "found_date": "2025-07-12T12:04:13.945821",
+    "status": "expired",
+    "expiration_date": "10/1/2024"
+  },
+  "AS2416": {
+    "promo_code": "AS2416",
+    "url": "https://www.alaskaair.com/promo/AS2416",
+    "company_name": "Microsoft",
+    "found_date": "2025-07-12T12:04:21.375733",
+    "status": "expired",
+    "expiration_date": "3/31/2025"
+  },
+  "AS2417": {
+    "promo_code": "AS2417",
+    "url": "https://www.alaskaair.com/promo/AS2417",
+    "company_name": "Boeing",
+    "found_date": "2025-07-12T12:04:22.294372",
+    "status": "expired",
+    "expiration_date": "3/31/2025"
+  },
+  "AS2418": {
+    "promo_code": "AS2418",
+    "url": "https://www.alaskaair.com/promo/AS2418",
+    "company_name": "Microsoft",
+    "found_date": "2025-07-12T12:04:23.765083",
+    "status": "expired",
+    "expiration_date": "3/31/2025"
+  },
+  "AS2419": {
+    "promo_code": "AS2419",
+    "url": "https://www.alaskaair.com/promo/AS2419",
+    "company_name": null,
+    "found_date": "2025-07-12T12:04:25.289162",
+    "status": "expired",
+    "expiration_date": "4/1/2025"
+  },
+  "AS2425": {
+    "promo_code": "AS2425",
+    "url": "https://www.alaskaair.com/promo/AS2425",
+    "company_name": null,
+    "found_date": "2025-07-12T12:04:33.903986",
+    "status": "expired",
+    "expiration_date": "1/1/2025"
+  },
+  "CS2401": {
+    "promo_code": "CS2401",
+    "url": "https://www.alaskaair.com/promo/CS2401",
+    "company_name": "Gonzaga University",
+    "found_date": "2025-07-12T12:06:12.852420",
+    "status": "active"
+  },
+  "CS2402": {
+    "promo_code": "CS2402",
+    "url": "https://www.alaskaair.com/promo/CS2402",
+    "company_name": "Fred Hutch",
+    "found_date": "2025-07-12T12:06:14.551357",
+    "status": "expired",
+    "expiration_date": "1/2/2025"
+  },
+  "CS2403": {
+    "promo_code": "CS2403",
+    "url": "https://www.alaskaair.com/promo/CS2403",
+    "company_name": "Performance Consulting Group",
+    "found_date": "2025-07-12T12:06:16.031019",
+    "status": "active"
+  },
+  "CS2404": {
+    "promo_code": "CS2404",
+    "url": "https://www.alaskaair.com/promo/CS2404",
+    "company_name": "McKinstry",
+    "found_date": "2025-07-12T12:06:17.705640",
+    "status": "active"
+  },
+  "CS2405": {
+    "promo_code": "CS2405",
+    "url": "https://www.alaskaair.com/promo/CS2405",
+    "company_name": "Walmart",
+    "found_date": "2025-07-12T12:06:18.690644",
+    "status": "active"
+  },
+  "CS2406": {
+    "promo_code": "CS2406",
+    "url": "https://www.alaskaair.com/promo/CS2406",
+    "company_name": "LinkedIn",
+    "found_date": "2025-07-12T12:06:20.180471",
+    "status": "active"
+  },
+  "CS2407": {
+    "promo_code": "CS2407",
+    "url": "https://www.alaskaair.com/promo/CS2407",
+    "company_name": "SAP America, Inc.",
+    "found_date": "2025-07-12T12:06:21.700391",
+    "status": "active"
+  },
+  "CS2408": {
+    "promo_code": "CS2408",
+    "url": "https://www.alaskaair.com/promo/CS2408",
+    "company_name": "Pinterest",
+    "found_date": "2025-07-12T12:06:22.847750",
+    "status": "active"
+  },
+  "CS2409": {
+    "promo_code": "CS2409",
+    "url": "https://www.alaskaair.com/promo/CS2409",
+    "company_name": "Skanska",
+    "found_date": "2025-07-12T12:06:23.954802",
+    "status": "active"
+  },
+  "CS2410": {
+    "promo_code": "CS2410",
+    "url": "https://www.alaskaair.com/promo/CS2410",
+    "company_name": "Brooks Sports",
+    "found_date": "2025-07-12T12:06:25.544392",
+    "status": "active"
+  },
+  "CS2411": {
+    "promo_code": "CS2411",
+    "url": "https://www.alaskaair.com/promo/CS2411",
+    "company_name": "NCAA",
+    "found_date": "2025-07-12T12:06:26.996766",
+    "status": "active"
+  },
+  "CS2412": {
+    "promo_code": "CS2412",
+    "url": "https://www.alaskaair.com/promo/CS2412",
+    "company_name": "Stanford University",
+    "found_date": "2025-07-12T12:06:27.706027",
+    "status": "active"
+  },
+  "CS2413": {
+    "promo_code": "CS2413",
+    "url": "https://www.alaskaair.com/promo/CS2413",
+    "company_name": "SDSU",
+    "found_date": "2025-07-12T12:06:28.822068",
+    "status": "expired",
+    "expiration_date": "1/2/2025"
+  },
+  "CS2415": {
+    "promo_code": "CS2415",
+    "url": "https://www.alaskaair.com/promo/CS2415",
+    "company_name": "Bank of America",
+    "found_date": "2025-07-12T12:06:31.709574",
+    "status": "active"
+  },
+  "AS2501": {
+    "promo_code": "AS2501",
+    "url": "https://www.alaskaair.com/promo/AS2501",
+    "company_name": "Amazon",
+    "found_date": "2025-07-12T12:08:27.350129",
+    "status": "active"
+  },
+  "AS2502": {
+    "promo_code": "AS2502",
+    "url": "https://www.alaskaair.com/promo/AS2502",
+    "company_name": "Meta",
+    "found_date": "2025-07-12T12:08:28.412412",
+    "status": "active"
+  },
+  "AS2503": {
+    "promo_code": "AS2503",
+    "url": "https://www.alaskaair.com/promo/AS2503",
+    "company_name": "Boeing",
+    "found_date": "2025-07-12T12:08:29.974980",
+    "status": "active"
+  },
+  "AS2504": {
+    "promo_code": "AS2504",
+    "url": "https://www.alaskaair.com/promo/AS2504",
+    "company_name": "Microsoft",
+    "found_date": "2025-07-12T12:08:31.559778",
+    "status": "active"
+  },
+  "AS2505": {
+    "promo_code": "AS2505",
+    "url": "https://www.alaskaair.com/promo/AS2505",
+    "company_name": "Google",
+    "found_date": "2025-07-12T12:08:32.980733",
+    "status": "active"
+  },
+  "AS2506": {
+    "promo_code": "AS2506",
+    "url": "https://www.alaskaair.com/promo/AS2506",
+    "company_name": "Deloitte",
+    "found_date": "2025-07-12T12:08:33.865748",
+    "status": "active"
+  },
+  "AS2507": {
+    "promo_code": "AS2507",
+    "url": "https://www.alaskaair.com/promo/AS2507",
+    "company_name": "Blue Origin",
+    "found_date": "2025-07-12T12:08:34.655210",
+    "status": "active"
+  },
+  "AS2508": {
+    "promo_code": "AS2508",
+    "url": "https://www.alaskaair.com/promo/AS2508",
+    "company_name": "Apple Inc.",
+    "found_date": "2025-07-12T12:08:36.259528",
+    "status": "active"
+  },
+  "AS2509": {
+    "promo_code": "AS2509",
+    "url": "https://www.alaskaair.com/promo/AS2509",
+    "company_name": "McKinsey & Co.",
+    "found_date": "2025-07-12T12:08:37.781689",
+    "status": "active"
+  },
+  "AS2510": {
+    "promo_code": "AS2510",
+    "url": "https://www.alaskaair.com/promo/AS2510",
+    "company_name": "Boston Consulting Group, Inc.",
+    "found_date": "2025-07-12T12:08:38.778851",
+    "status": "active"
+  },
+  "AS2511": {
+    "promo_code": "AS2511",
+    "url": "https://www.alaskaair.com/promo/AS2511",
+    "company_name": "PwC",
+    "found_date": "2025-07-12T12:08:39.576400",
+    "status": "active"
+  },
+  "AS2512": {
+    "promo_code": "AS2512",
+    "url": "https://www.alaskaair.com/promo/AS2512",
+    "company_name": "KPMG LLP",
+    "found_date": "2025-07-12T12:08:41.184484",
+    "status": "active"
+  },
+  "CS2501": {
+    "promo_code": "CS2501",
+    "url": "https://www.alaskaair.com/promo/CS2501",
+    "company_name": "AbbVie",
+    "found_date": "2025-07-12T12:10:43.124112",
+    "status": "active"
+  },
+  "CS2502": {
+    "promo_code": "CS2502",
+    "url": "https://www.alaskaair.com/promo/CS2502",
+    "company_name": "Boston Scientific",
+    "found_date": "2025-07-12T12:10:44.326156",
+    "status": "active"
+  },
+  "CS2503": {
+    "promo_code": "CS2503",
+    "url": "https://www.alaskaair.com/promo/CS2503",
+    "company_name": "AstraZeneca",
+    "found_date": "2025-07-12T12:10:45.589019",
+    "status": "active"
+  },
+  "CS2504": {
+    "promo_code": "CS2504",
+    "url": "https://www.alaskaair.com/promo/CS2504",
+    "company_name": "Medtronic",
+    "found_date": "2025-07-12T12:10:47.076540",
+    "status": "active"
+  },
+  "CS2505": {
+    "promo_code": "CS2505",
+    "url": "https://www.alaskaair.com/promo/CS2505",
+    "company_name": "United Healthcare",
+    "found_date": "2025-07-12T12:10:48.712247",
+    "status": "active"
+  },
+  "CS2506": {
+    "promo_code": "CS2506",
+    "url": "https://www.alaskaair.com/promo/CS2506",
+    "company_name": "JP Morgan Chase",
+    "found_date": "2025-07-12T12:10:50.338635",
+    "status": "active"
+  },
+  "CS2507": {
+    "promo_code": "CS2507",
+    "url": "https://www.alaskaair.com/promo/CS2507",
+    "company_name": "Jacobs Engineering",
+    "found_date": "2025-07-12T12:10:51.433794",
+    "status": "active"
+  },
+  "CS2508": {
+    "promo_code": "CS2508",
+    "url": "https://www.alaskaair.com/promo/CS2508",
+    "company_name": "Siemens",
+    "found_date": "2025-07-12T12:10:52.347928",
+    "status": "active"
+  },
+  "CS2509": {
+    "promo_code": "CS2509",
+    "url": "https://www.alaskaair.com/promo/CS2509",
+    "company_name": "DellEMC",
+    "found_date": "2025-07-12T12:10:53.116639",
+    "status": "active"
+  },
+  "CS2510": {
+    "promo_code": "CS2510",
+    "url": "https://www.alaskaair.com/promo/CS2510",
+    "company_name": "The Church of Jesus Christ of Latter-day Saints",
+    "found_date": "2025-07-12T12:10:54.205113",
+    "status": "active"
+  },
+  "CS2511": {
+    "promo_code": "CS2511",
+    "url": "https://www.alaskaair.com/promo/CS2511",
+    "company_name": "Fisher Investments",
+    "found_date": "2025-07-12T12:10:55.149401",
+    "status": "active"
+  },
+  "CS2512": {
+    "promo_code": "CS2512",
+    "url": "https://www.alaskaair.com/promo/CS2512",
+    "company_name": "Standard Insurance Co",
+    "found_date": "2025-07-12T12:10:56.362600",
+    "status": "active"
+  },
+  "CS2513": {
+    "promo_code": "CS2513",
+    "url": "https://www.alaskaair.com/promo/CS2513",
+    "company_name": "Precision Castparts Co",
+    "found_date": "2025-07-12T12:10:57.781446",
+    "status": "active"
+  },
+  "CS2514": {
+    "promo_code": "CS2514",
+    "url": "https://www.alaskaair.com/promo/CS2514",
+    "company_name": "CHG Healthcare Service",
+    "found_date": "2025-07-12T12:10:59.356392",
+    "status": "active"
+  },
+  "CS2515": {
+    "promo_code": "CS2515",
+    "url": "https://www.alaskaair.com/promo/CS2515",
+    "company_name": "Global Medical Response, Inc",
+    "found_date": "2025-07-12T12:11:00.815298",
+    "status": "active"
+  },
+  "CS2516": {
+    "promo_code": "CS2516",
+    "url": "https://www.alaskaair.com/promo/CS2516",
+    "company_name": "Sony Corporation",
+    "found_date": "2025-07-12T12:11:01.669437",
+    "status": "active"
+  },
+  "CS2517": {
+    "promo_code": "CS2517",
+    "url": "https://www.alaskaair.com/promo/CS2517",
+    "company_name": "Intuit",
+    "found_date": "2025-07-12T12:11:02.903470",
+    "status": "active"
+  },
+  "CS2518": {
+    "promo_code": "CS2518",
+    "url": "https://www.alaskaair.com/promo/CS2518",
+    "company_name": "Dexcom, Inc.",
+    "found_date": "2025-07-12T12:11:04.103077",
+    "status": "active"
+  },
+  "CS2519": {
+    "promo_code": "CS2519",
+    "url": "https://www.alaskaair.com/promo/CS2519",
+    "company_name": "Neurocrine Bioscience",
+    "found_date": "2025-07-12T12:11:05.580055",
+    "status": "active"
+  },
+  "CS2520": {
+    "promo_code": "CS2520",
+    "url": "https://www.alaskaair.com/promo/CS2520",
+    "company_name": "Anduril Industries",
+    "found_date": "2025-07-12T12:11:06.719077",
+    "status": "active"
+  },
+  "CS2521": {
+    "promo_code": "CS2521",
+    "url": "https://www.alaskaair.com/promo/CS2521",
+    "company_name": "Philips Electronics",
+    "found_date": "2025-07-12T12:11:07.552002",
+    "status": "active"
+  },
+  "CS2522": {
+    "promo_code": "CS2522",
+    "url": "https://www.alaskaair.com/promo/CS2522",
+    "company_name": "The Kroger Company",
+    "found_date": "2025-07-12T12:11:08.758382",
+    "status": "active"
+  },
+  "CS2523": {
+    "promo_code": "CS2523",
+    "url": "https://www.alaskaair.com/promo/CS2523",
+    "company_name": "Southern Glazer's Wine",
+    "found_date": "2025-07-12T12:11:09.666228",
+    "status": "active"
+  },
+  "CS2524": {
+    "promo_code": "CS2524",
+    "url": "https://www.alaskaair.com/promo/CS2524",
+    "company_name": "Nestrade SA",
+    "found_date": "2025-07-12T12:11:11.281858",
+    "status": "active"
+  },
+  "CS2525": {
+    "promo_code": "CS2525",
+    "url": "https://www.alaskaair.com/promo/CS2525",
+    "company_name": "Amgen",
+    "found_date": "2025-07-12T12:11:12.103028",
+    "status": "active"
+  },
+  "CS2526": {
+    "promo_code": "CS2526",
+    "url": "https://www.alaskaair.com/promo/CS2526",
+    "company_name": "Intuitive Surgical",
+    "found_date": "2025-07-12T12:11:13.046023",
+    "status": "active"
+  },
+  "CS2527": {
+    "promo_code": "CS2527",
+    "url": "https://www.alaskaair.com/promo/CS2527",
+    "company_name": "Netflix",
+    "found_date": "2025-07-12T12:11:13.906711",
+    "status": "active"
+  },
+  "CS2528": {
+    "promo_code": "CS2528",
+    "url": "https://www.alaskaair.com/promo/CS2528",
+    "company_name": "Nvidia",
+    "found_date": "2025-07-12T12:11:15.085456",
+    "status": "active"
+  },
+  "CS2529": {
+    "promo_code": "CS2529",
+    "url": "https://www.alaskaair.com/promo/CS2529",
+    "company_name": "Samsung",
+    "found_date": "2025-07-12T12:11:16.473053",
+    "status": "active"
+  },
+  "CS2530": {
+    "promo_code": "CS2530",
+    "url": "https://www.alaskaair.com/promo/CS2530",
+    "company_name": "Atlassian",
+    "found_date": "2025-07-12T12:11:17.803374",
+    "status": "active"
+  },
+  "CS2531": {
+    "promo_code": "CS2531",
+    "url": "https://www.alaskaair.com/promo/CS2531",
+    "company_name": "OKTA",
+    "found_date": "2025-07-12T12:11:19.422266",
+    "status": "active"
+  },
+  "CS2532": {
+    "promo_code": "CS2532",
+    "url": "https://www.alaskaair.com/promo/CS2532",
+    "company_name": "eBay",
+    "found_date": "2025-07-12T12:11:21.108841",
+    "status": "active"
+  },
+  "CS2533": {
+    "promo_code": "CS2533",
+    "url": "https://www.alaskaair.com/promo/CS2533",
+    "company_name": "Hewlett Packard Enterprise",
+    "found_date": "2025-07-12T12:11:22.714421",
+    "status": "active"
+  },
+  "CS2534": {
+    "promo_code": "CS2534",
+    "url": "https://www.alaskaair.com/promo/CS2534",
+    "company_name": "Saltchuk",
+    "found_date": "2025-07-12T12:11:24.320387",
+    "status": "active"
+  },
+  "CS2535": {
+    "promo_code": "CS2535",
+    "url": "https://www.alaskaair.com/promo/CS2535",
+    "company_name": "Weyerhaeuser",
+    "found_date": "2025-07-12T12:11:25.533735",
+    "status": "active"
+  },
+  "CS2536": {
+    "promo_code": "CS2536",
+    "url": "https://www.alaskaair.com/promo/CS2536",
+    "company_name": "Avalara",
+    "found_date": "2025-07-12T12:11:26.841805",
+    "status": "active"
+  },
+  "CS2537": {
+    "promo_code": "CS2537",
+    "url": "https://www.alaskaair.com/promo/CS2537",
+    "company_name": "Centerline Logistics",
+    "found_date": "2025-07-12T12:11:28.527508",
+    "status": "active"
+  },
+  "CS2538": {
+    "promo_code": "CS2538",
+    "url": "https://www.alaskaair.com/promo/CS2538",
+    "company_name": "Nintendo",
+    "found_date": "2025-07-12T12:11:30.240864",
+    "status": "active"
+  },
+  "CS2539": {
+    "promo_code": "CS2539",
+    "url": "https://www.alaskaair.com/promo/CS2539",
+    "company_name": "Seattle Seahawks",
+    "found_date": "2025-07-12T12:11:31.886709",
+    "status": "active"
+  },
+  "CS2540": {
+    "promo_code": "CS2540",
+    "url": "https://www.alaskaair.com/promo/CS2540",
+    "company_name": "The Odom Corporation",
+    "found_date": "2025-07-12T12:11:33.486807",
+    "status": "active"
+  },
+  "CS2541": {
+    "promo_code": "CS2541",
+    "url": "https://www.alaskaair.com/promo/CS2541",
+    "company_name": "Pivotal Ventures",
+    "found_date": "2025-07-12T12:11:34.579310",
+    "status": "active"
+  },
+  "CS2542": {
+    "promo_code": "CS2542",
+    "url": "https://www.alaskaair.com/promo/CS2542",
+    "company_name": "Smartsheet",
+    "found_date": "2025-07-12T12:11:35.807635",
+    "status": "active"
+  },
+  "CS2543": {
+    "promo_code": "CS2543",
+    "url": "https://www.alaskaair.com/promo/CS2543",
+    "company_name": "Marriott",
+    "found_date": "2025-07-12T12:11:36.626552",
+    "status": "active"
+  },
+  "CS2544": {
+    "promo_code": "CS2544",
+    "url": "https://www.alaskaair.com/promo/CS2544",
+    "company_name": "Chewy",
+    "found_date": "2025-07-12T12:11:38.282974",
+    "status": "active"
+  },
+  "CS2545": {
+    "promo_code": "CS2545",
+    "url": "https://www.alaskaair.com/promo/CS2545",
+    "company_name": "Bloomberg",
+    "found_date": "2025-07-12T12:11:39.144893",
+    "status": "active"
+  },
+  "CS2546": {
+    "promo_code": "CS2546",
+    "url": "https://www.alaskaair.com/promo/CS2546",
+    "company_name": "Verizon",
+    "found_date": "2025-07-12T12:11:40.579815",
+    "status": "active"
+  },
+  "CS2547": {
+    "promo_code": "CS2547",
+    "url": "https://www.alaskaair.com/promo/CS2547",
+    "company_name": "Allegis Group",
+    "found_date": "2025-07-12T12:11:41.809399",
+    "status": "active"
+  }
+}
